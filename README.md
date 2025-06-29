@@ -39,8 +39,7 @@ Os dados utilizados neste estudo foram obtidos por meio dos Indicadores Educacio
 
 Os dados utilizados no projeto podem ser baixados diretamente do site do INEP:
 
-1. Acesse o repositório de **Microdados da Educação Básica** [aqui](http://www.inep.gov.br/web/guest/microdados).
-2. Baixe as planilhas de **Taxas de Transição** dos anos de 2010 a 2020.
+1. Baixe as planilhas de **Taxas de Transição** dos anos de 2010 a 2020.
 
 ### 2. Rodando o Código
 
