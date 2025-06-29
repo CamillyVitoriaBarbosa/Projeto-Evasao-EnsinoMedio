@@ -31,7 +31,7 @@ Este trabalho busca, por meio da análise de dados oficiais, fornecer uma visão
 Os dados utilizados neste estudo foram obtidos por meio dos Indicadores Educacionais do INEP, mais especificamente os arquivos referentes às Taxas de Transição, que incluem as taxas de aprovação, reprovação, abandono e evasão no ensino médio por unidade federativa e região.
 
 - Repositório oficial dos dados:  
-👉 [Taxas de Transição - INEP](http://www.inep.gov.br/web/guest/microdados)
+👉 [Taxas de Transição - INEP]([https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-transicao])
 
 ## 🔧 Como Reproduzir o Projeto
 
